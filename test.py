@@ -4,3 +4,8 @@ def sayHello(name):
 if __name__ == "__main__":
     sayHello("Adrian")
     pass
+
+    x = 10
+
+    for i in range(x):
+        print(i)
