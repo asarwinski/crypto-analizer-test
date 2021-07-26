@@ -1,1 +1,2 @@
 # crypto-analizer
+STONKS
